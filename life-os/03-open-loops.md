@@ -16,8 +16,9 @@ and it charges you attention every day it stays open.
 
 | # | Decision | Open since | Forcing date | Status | Note |
 |---|---|---|---|---|---|
-| A1 | **Car: which vehicle, buy vs lease** | ~Apr 2026 (4 mo) | **_pick one: Aug 15_** | OPEN | 5 broker sheets, dozens of research links. You have enough information. See below. |
-| A2 | **GM / BBB vehicle return** | 2026-05-21 | **ASAP — this week** | OPEN | GM agreed to take the vehicle back. Money attached. Currently sitting unread. |
+| A1 | **Car: which vehicle, buy vs lease** | ~Apr 2026 (4 mo) | **Set by the turn-in date ↓** | OPEN | 5 broker sheets, dozens of research links. You have enough information. See below. |
+| A2 | **GM / BBB vehicle return** | 2026-05-21 | **ASAP — this week** | OPEN | GM agreed to take the vehicle back. Money attached. Sitting unread. |
+| A2b | **Cadillac lease turn-in** | 2026-05-27 notice | **Find this date NOW** | OPEN | "Sachin, it's almost time for your Cadillac turn-in" — forwarded to `s3mamin`. **This is your real deadline.** |
 | A3 | **Sell the Honda Civic** | ~Apr 2026 | Tie to A1 | OPEN | AutoTrader private-seller research done. Blocked on A1 realistically. |
 | A4 | **Home build (Indonesia): land / designer / contractor** | ~Mar 2026 | Needs a *next step*, not a decision | OPEN | pinhome.id listings saved. What's the actual next action — site visit? architect intro? |
 | A5 | **Business-class routing to family** | ongoing | Standing | OPEN | You're getting 10+ award-fare newsletters daily. Set a target route + points threshold once, then unsubscribe from all of them. |
