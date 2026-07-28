@@ -37,6 +37,8 @@ Read them in order. Each one is a file.
 - [`03-open-loops.md`](03-open-loops.md) — the register, seeded with your real open items
 - [`04-rhythm.md`](04-rhythm.md) — daily brief, weekly review, monthly
 - [`05-pursuit-tracker.md`](05-pursuit-tracker.md) — the work side (RFP / bid / team)
+- [`08-capacity-memo.md`](08-capacity-memo.md) — 🔴 **the boss conversation.** Highest
+  value document here.
 
 > **Do 02 and 06 in the same sitting.** Merging four accounts into an inbox that's
 > still 50:1 noise makes things worse. Kill the noise, then open the channels.
@@ -62,15 +64,18 @@ entire plan — everything else is downstream of it.
 
 ## If you only do one thing
 
-**Cut the pursuit list from 15+ to six.**
+**Have the capacity conversation with your boss.** → [`08-capacity-memo.md`](08-capacity-memo.md)
 
-This is a *win rate* argument, not a workload one. Fifteen thin bids with rushed pricing
-and generic decks lose to firms that resourced five properly. Hit rate is what the boss
-and the project executive judge — and it's the only variable you fully control.
+You can't triage — pursuits are assigned. So no system fixes this; only a decision from
+above does. And leadership almost certainly doesn't know the real situation: from where
+they sit, "Sam has five people" reads as *Sam has capacity*. Nobody has connected that
+**all five are on Galleria**, leaving 15+ pursuits with zero support.
 
-At 2 hours per pursuit per week that's 30+ hours before any delivery work, any
-presentation, or any managing. The math has never closed. Six pursuits, properly
-resourced, will win more work than fifteen rushed ones.
+**Don't ask to decline. Ask them to rank.** A boss rarely says "drop it," but will
+readily say "these five matter most." Same outcome, no political cost, and the decision
+sits with the person authorized to make it.
+
+The memo is written. Verify the numbers and send it.
 
 ---
 
