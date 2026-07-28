@@ -57,19 +57,52 @@ your daughter already walked.
 Reverse the order — stay in Jakarta now, immigrate later — and each child loses the
 easy immigration category at 21, and you pay more for less.
 
-### The clock
+### The timeline — per the lawyer
 
-I-130 petitions: **filed, waiting.** Unmarried stepchildren under 21 sit in the fastest
-category. At 21 they drop into a badly backlogged one.
+| When | What | Confidence |
+|---|---|---|
+| **Mar 2026** | I-130s filed (wife + 4 stepkids) | ✅ Done |
+| **~May–Jul 2027** | I-130 approval — lawyer says 14–16 months | Lawyer's estimate |
+| **+3–6 months** | NVC processing, fees, documents | Typical |
+| **+ interview** | Consular interview, US Embassy Jakarta | Typical |
+| **~2028** | Arrival | Realistic planning assumption |
 
-| Child | Age | Turns 21 | Urgency |
+> Approval is **not** arrival. The I-130 is step one of three. After it's approved the
+> case moves to the National Visa Center and then to a consular interview in Jakarta.
+> Budget for the full chain, not just the approval date — that's the single most common
+> planning mistake families make here, and it's usually a year of surprise.
+
+### Ages at likely arrival
+
+| Child | Now (2026) | At arrival (~2028) | Age-out risk |
 |---|---|---|---|
-| Eldest | **15** | ~2032 | 🔴 **Binding constraint** |
-| | 13 | ~2034 | 🟠 |
-| | 11 | ~2036 | 🟡 |
-| | 9 | ~2038 | 🟢 |
+| Eldest | 15 | ~17 | ✅ Safely under 21 |
+| | 13 | ~15 | ✅ |
+| | 11 | ~13 | ✅ |
+| | 9 | ~11 | ✅ |
 
-Delay costs the 15-year-old most. Every month matters more for him than for the others.
+**Good news: the I-130 age-out risk is smaller than I first thought.** All four should
+be comfortably under 21 when visas are issued. That pressure is largely off.
+
+### Where the real clock now sits — naturalization, not the visa
+
+The binding constraint moved. It's no longer "will they get in." It's **"how do they
+become citizens before they leave for medical college."**
+
+Because if they hold green cards and go study in Jakarta, residence is at risk. If they
+hold **citizenship**, it isn't. So the question is how fast each one can naturalize.
+
+- Your **eldest** arrives around 17. If stepchildren must naturalize on their own after
+  ~5 years as a green card holder, that's roughly **age 22** — meaning he'd need to be
+  in the US through what would otherwise be his medical-college years. **He is the
+  hard case.**
+- Your **wife** may become eligible to naturalize a few years after arriving. If she
+  does so while the younger children are still minors, living with her in the US, there
+  may be a path for them to acquire citizenship through her. That could cover the
+  younger three and not the eldest.
+
+This is precisely the scenario to put in front of your lawyer — it's the difference
+between one child's plan working and not.
 
 ### The wrinkle — they're stepchildren
 
@@ -151,6 +184,38 @@ the moment the kids land in NJ, that arbitrage stops.
 
 **Run this number before it arrives, not after.** It's the difference between a planned
 squeeze and an emergency.
+
+---
+
+## You have roughly 18–24 months. Use them.
+
+This is the most valuable thing the lawyer's timeline gives you: **runway.**
+
+Arrival lands around 2028. That is not far away, and it is not a crisis either — it's
+exactly enough time to prepare properly, *if you start while it still feels early.*
+
+What that window is for:
+
+| Do now (2026) | Do by 2027 | Do by arrival |
+|---|---|---|
+| Ask the lawyer the Jakarta question | Build the six-person budget | Lock housing |
+| Get receipts stored outside `docmajan` | Research Edgewater schools | Enroll four kids |
+| Start the savings gap calculation | Decide: 6–9 month gap, or all together? | Second vehicle? |
+
+The trap is treating 2028 as far away, doing nothing for eighteen months, and then
+compressing housing, schooling, budget, and a household of six into a panicked
+final quarter. That's the version where something real gets broken.
+
+The whole point of writing any of this down is that **"next year" quietly becomes
+"next month."** You've now got a date. Work backward from it.
+
+### One planning question the timeline raises
+
+You mentioned wanting a **6–9 month gap** — wife first, kids after the Jakarta school
+year ends. Worth confirming with the lawyer whether that's actually available. Immediate
+relatives filed together often move through consular processing **together**, and visas
+come with entry deadlines. A staggered arrival may be a choice you have, or it may not
+be. Better to know now than to discover it when the visas are issued.
 
 ---
 
