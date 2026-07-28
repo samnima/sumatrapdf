@@ -43,16 +43,34 @@ Read them in order. Each one is a file.
 
 ---
 
+## Priority, stated by Sam
+
+> **"Work is important, all other are very minor issues. Work is paying the bills."**
+
+Correct, and the system is ordered accordingly. One income supports a household that
+roughly doubles in 2028. Standing at Hudson Meridian is the load-bearing thing in this
+entire plan — everything else is downstream of it.
+
+**Order of attention:**
+
+1. 🔴 **Work** — [`05-pursuit-tracker.md`](05-pursuit-tracker.md). Hit rate, capacity,
+   the team.
+2. 🟡 **Car** — you've had no vehicle since June 17. Trade the Civic, sign, done.
+3. ⚪ **Inbox / four accounts** — real friction, but it can wait for a quiet weekend.
+4. 🅿️ **Family / immigration** — parked. Lawyer engaged, arrival ~2028. Revisit
+   Jan 2027.
+
 ## If you only do one thing
 
-**Book the immigration attorney consultation.** Bring the four I-130 receipt numbers.
+**Cut the pursuit list from 15+ to six.**
 
-It outranks the car, the inbox, and everything at work — because it's the only item
-here with a **deadline you don't control.** Your 15-year-old ages out of the fast
-immigration category at 21, and the plan as currently imagined (green cards held while
-studying in Jakarta) does not survive contact with the actual rules.
+This is a *win rate* argument, not a workload one. Fifteen thin bids with rushed pricing
+and generic decks lose to firms that resourced five properly. Hit rate is what the boss
+and the project executive judge — and it's the only variable you fully control.
 
-Everything else in this system can slip a week. That one can't.
+At 2 hours per pursuit per week that's 30+ hours before any delivery work, any
+presentation, or any managing. The math has never closed. Six pursuits, properly
+resourced, will win more work than fifteen rushed ones.
 
 ---
 
