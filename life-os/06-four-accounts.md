@@ -121,22 +121,34 @@ the realistic target, and it's a 60% reduction in switching.
 
 ---
 
-## What to do about `docmajan` — search closed ✅
+## `docmajan` — this one is a records vault, not a mailbox
 
-`docmajan` is the medical account, and the JobLeads alerts were your daughter's
-physician job search. **She got the job — VA hospital.** Loop closed.
+**All four I-130 receipts live in `docmajan`.** That makes it the most valuable of the
+four accounts by a wide margin — it holds the documentary record of your family's
+immigration case.
 
-So the action is: **go into JobLeads and delete the saved searches, then unsubscribe.**
-Don't filter them. Filtering hides a machine that's still running; you want it off.
+Treat it accordingly:
 
-Then decide what `docmajan` is *for* now:
+- **Do not** bulk-archive or clean it out. Ever.
+- **Do** forward it to the hub so new mail is visible, and label it `@DOC`.
+- **Do** make sure recovery info is current and 2FA is on. If you lose access to this
+  account, you lose the paper trail for six people's immigration case.
+- **Do** pull the four receipt numbers out and store them somewhere that isn't a single
+  Gmail account — a document your wife can also reach.
 
-- **Her ongoing professional account** → she owns it, you stop monitoring it, it
-  doesn't forward to your hub at all. Most likely right answer now that she's placed.
-- **Dormant** → forward to hub, archive everything, revisit in a year.
+> Its name made me assume "doctor." It's really the **documents** account. That's a
+> much better reason to keep it.
 
-Either way it should stop consuming a slot in your daily attention. It was a live
-workstream; it isn't anymore, and the system should reflect that.
+### The JobLeads alerts, though — turn those off ✅
+
+Your daughter's physician search ran through here, and **she got the job — VA
+hospital.** The search is over but the alerts still fire 2–3× a day.
+
+Go into JobLeads, delete the saved searches, unsubscribe. Don't just filter them —
+filtering hides a machine that's still running. You want it off.
+
+(There's a second saved search running too, for software engineering roles in
+Washington. Same treatment unless someone's still using it.)
 
 ### The general rule this teaches
 

@@ -82,12 +82,37 @@ individually after holding a green card.
 
 ---
 
-## The single highest-value action available to you
+## Status: lawyer is on board ✅ — receipts are in `docmajan`
 
-> **Book one immigration attorney consultation. Bring the four I-130 receipt numbers.**
+Good. That closes the biggest gap. **But it does not close the risk**, and here's why.
 
-Higher value than the car decision, the inbox reset, or anything at work. Questions to
-walk in with:
+### The question your lawyer has probably not been asked
+
+An immigration attorney answers what they're asked. If the engagement was *"file I-130s
+for my wife and four stepchildren,"* that's what they did — correctly.
+
+**They may have no idea you intend for the kids to live and study in Jakarta after
+receiving green cards.** That intention isn't visible anywhere on an I-130. It only
+surfaces if you say it out loud.
+
+So the action isn't "find a lawyer" — it's **one specific message to the lawyer you
+already have**:
+
+> "After the kids get their green cards, the plan is for them to remain in Jakarta for
+> school, including medical college. Does that put their permanent residence at risk?
+> What do we need to do to protect it — re-entry permits, timing of entry, or a faster
+> route to citizenship? They're my stepchildren, not biological or adopted."
+
+That's the whole thing. It's a five-minute email, and the answer determines whether the
+family strategy works or quietly collapses in six years.
+
+### Why it matters this much
+
+Everything in this plan depends on the kids being able to be *cheap in Jakarta* and
+*permanent in the US* at the same time. Those two things are in tension, and the
+tension is invisible until someone with the right expertise is explicitly pointed at it.
+
+Ask that question. Then the rest of these:
 
 1. Given the petitions are filed and I'm the petitioner — what's each child's category,
    and what's the realistic timeline for each?
@@ -109,8 +134,9 @@ Open items that gap creates:
 
 | # | Item | Status |
 |---|---|---|
-| F1 | **Immigration consultation** — the item above | 🔴 OPEN |
-| F2 | Locate all four I-130 receipt numbers | OPEN |
+| F1 | ~~Retain an immigration attorney~~ | **DONE** ✅ On board |
+| F1b | **Ask the lawyer the Jakarta-education question** ↑ | 🔴 OPEN — this week |
+| F2 | ~~Locate I-130 receipt numbers~~ | **DONE** ✅ All in `docmajan` |
 | F3 | Who cares for the kids in Jakarta during the gap? | OPEN |
 | F4 | Housing in Edgewater for six people | OPEN |
 | F5 | Four school placements in NJ — enrollment deadlines | OPEN |

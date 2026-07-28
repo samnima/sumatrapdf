@@ -16,20 +16,59 @@ and it charges you attention every day it stays open.
 
 | # | Decision | Open since | Forcing date | Status | Note |
 |---|---|---|---|---|---|
-| A1 | **Car: which vehicle, buy vs lease** | ~Apr 2026 (4 mo) | **Set by the turn-in date ↓** | OPEN | 5 broker sheets, dozens of research links. You have enough information. See below. |
-| A2 | **GM / BBB vehicle return** | 2026-05-21 | **ASAP — this week** | OPEN | GM agreed to take the vehicle back. Money attached. Sitting unread. |
-| A2b | **Cadillac lease turn-in** | 2026-05-27 notice | **Find this date NOW** | OPEN | "Sachin, it's almost time for your Cadillac turn-in" — forwarded to `s3mamin`. **This is your real deadline.** |
+| A1 | **Replacement vehicle — decide and sign** | ~Apr 2026 (4 mo) | **Aug 15** | 🔴 OPEN | You've been without the Cadillac since June 17. See below. |
+| A2 | ~~GM / BBB vehicle return~~ | — | — | **DONE** ✅ | BBB action succeeded, GM took the vehicle back. |
+| A2b | ~~Cadillac lease turn-in~~ | — | 2026-06-17 | **DONE** ✅ | Returned. |
+| A3b | **Sell the Honda Civic** | — | Tie to A1 | OPEN | Appraised 2026-07-27 at **$3,190–$4,525**. That's your down payment. |
 | A3 | **Sell the Honda Civic** | ~Apr 2026 | Tie to A1 | OPEN | AutoTrader private-seller research done. Blocked on A1 realistically. |
 | A4 | **Home build (Indonesia): land / designer / contractor** | ~Mar 2026 | Needs a *next step*, not a decision | OPEN | pinhome.id listings saved. What's the actual next action — site visit? architect intro? |
 | A5 | **Business-class routing to family** | ongoing | Standing | OPEN | You're getting 10+ award-fare newsletters daily. Set a target route + points threshold once, then unsubscribe from all of them. |
 
-### On A1 — read this once
+### On A1 — the deadline already passed
+
+**The Cadillac went back on June 17.** You've been six weeks without it, and the
+research is still running — you were pulling Lyriq inventory and lease forums as
+recently as July 22–27.
+
+That reframes this completely. This isn't "when should I decide." The decision was due
+in June and you're **living the cost of not having made it** — rentals, borrowing,
+rearranging, or simply doing without a car in New Jersey.
 
 Four months, five broker spreadsheets, and dozens of self-sent links is not diligence.
-Past a certain point, more research is a way of *not deciding* — it feels productive and
-costs nothing socially. The cost is real though: it's the single largest recurring drain
-on your personal attention, and it's competing with your kids' school budget and a
-house build for the same mental slot.
+Past a certain point, more research is a way of *not deciding* — it feels productive
+and costs nothing socially. But it stopped being free in June.
+
+### Decouple the two transactions
+
+You're selling a 2013 Civic **and** shopping a new Lyriq at the same time, and that's
+why neither closes. They feel like one deal. They aren't.
+
+The Civic is worth **$3,190–$4,525**. On a Lyriq, that's rounding. It should not gate
+anything.
+
+- **Civic:** take the fast certain offer — CarMax, Carvana, dealer trade. Chasing
+  private-party top dollar might net another $1–2k and cost you weeks. You've already
+  spent six weeks. Sell it this week and stop thinking about it.
+- **Lyriq:** decide on its own merits, with its own deadline, independent of the Civic.
+
+Two small decisions close easily. One big coupled decision has now been open for four
+months.
+
+### One thing to make conscious, not automatic
+
+Your last Cadillac went back to GM through **BBB arbitration** — and you'd saved an
+article titled *"Cadillac Lyriq Bricked: GM Sued Over Lyriq EV Defects."*
+
+You're now shopping for another Lyriq.
+
+That may well be right — you may love the car, the defects may be resolved in newer
+model years, and GM may have made you a goodwill offer worth taking. But after a
+dispute serious enough to need arbitration, going back to the same model should be a
+**decision you actually make**, not momentum carrying you there because it's the car
+you already know how to research.
+
+Ask it once, plainly: *if this one has the same problem, what then?* If you have a good
+answer, buy it with confidence. If you don't, that's worth knowing before you sign.
 
 Suggested close-out, one evening:
 
