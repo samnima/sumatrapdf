@@ -1,7 +1,25 @@
 # 07 — Family Plan
 
-**This is the most consequential file in the system.** Until 2026-07-28 none of it was
-written down anywhere.
+> ## 🅿️ PARKED — revisit early 2027
+>
+> Lawyer is engaged, petitions are filed, arrival is ~2028. Nothing here needs weekly
+> attention right now, and pretending otherwise just burns attention on something that
+> can't move faster.
+>
+> **Two things stay live:**
+>
+> 1. **Ask the lawyer the Jakarta-education question** (below). Five minutes, not
+>    urgent, but it shapes 2027 decisions. Don't let it get buried.
+> 2. **Start the six-person budget** whenever there's a quiet weekend. The number is
+>    better known early than discovered late.
+>
+> **Wake this file up when:** the I-130 approval notice arrives (~mid-2027), or the
+> lawyer asks for anything. Put a reminder at **Jan 2027** to re-read it.
+
+---
+
+**This is the most consequential file in the system**, even parked. Until 2026-07-28
+none of it was written down anywhere.
 
 ---
 
