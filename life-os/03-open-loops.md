@@ -42,12 +42,27 @@ The specific car matters much less than closing the loop.
 
 ---
 
+## A-zero. Above everything else
+
+| # | Item | Forcing date | Status |
+|---|---|---|---|
+| **F1** | **Immigration attorney consultation** — wife + four stepkids, I-130s filed | **This month** | 🔴 OPEN |
+
+The only item in this system with a deadline you don't control. Full detail in
+[`07-family-plan.md`](07-family-plan.md). The 15-year-old ages out of the fast category
+at 21, and the "green card while studying in Jakarta" plan does not survive the actual
+rules. Everything else here can slip a week.
+
+---
+
 ## B. Family (different country)
 
-I could find **no school, tuition, or family-finance email** in this account. That
-traffic is almost certainly on WhatsApp or another address (`s3mamin@gmail.com` /
-`nycpatamin@gmail.com` both appear in your mail). So this section is yours to fill —
-but it needs a home, because right now it has none.
+Wife and four stepkids (9, 11, 13, 15) are in **Jakarta**. You're in **Edgewater, NJ**,
+supporting everyone on one salary. Full plan in [`07-family-plan.md`](07-family-plan.md).
+
+I could find **no school, tuition, or family-finance email** in this account — that
+traffic is on WhatsApp or another address. So this section is yours to fill, but it
+needs a home, because right now it has none and it's funding six people.
 
 | # | Item | Owner | Due | Status |
 |---|---|---|---|---|

@@ -29,8 +29,10 @@ It's a plumbing problem.
 
 Read them in order. Each one is a file.
 
+- [`07-family-plan.md`](07-family-plan.md) — 🔴 **read this first.** Wife, four
+  stepkids, the I-130 clock. Highest stakes in the system.
 - [`01-diagnosis.md`](01-diagnosis.md) — what your data actually shows, with numbers
-- [`02-inbox-reset.md`](02-inbox-reset.md) — **start here**, highest payoff per minute
+- [`02-inbox-reset.md`](02-inbox-reset.md) — start here for *doing*, highest payoff per minute
 - [`06-four-accounts.md`](06-four-accounts.md) — **do this alongside 02**, the river
 - [`03-open-loops.md`](03-open-loops.md) — the register, seeded with your real open items
 - [`04-rhythm.md`](04-rhythm.md) — daily brief, weekly review, monthly
@@ -38,6 +40,19 @@ Read them in order. Each one is a file.
 
 > **Do 02 and 06 in the same sitting.** Merging four accounts into an inbox that's
 > still 50:1 noise makes things worse. Kill the noise, then open the channels.
+
+---
+
+## If you only do one thing
+
+**Book the immigration attorney consultation.** Bring the four I-130 receipt numbers.
+
+It outranks the car, the inbox, and everything at work — because it's the only item
+here with a **deadline you don't control.** Your 15-year-old ages out of the fast
+immigration category at 21, and the plan as currently imagined (green cards held while
+studying in Jakarta) does not survive contact with the actual rules.
+
+Everything else in this system can slip a week. That one can't.
 
 ---
 
